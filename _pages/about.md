@@ -9,12 +9,15 @@ redirect_from:
 ---
 
 # Educational background
-2016.09 - 2020.06                Xi'an Jiaotong University                             Bachelor's degree in Information Engineering and Finance
-2020.06 - now        Institute of Automation, Chinese Academy of Sciences                      Pattern Recognition and Intelligent System
+2016.09 - 2020.06       /t         Xi'an Jiaotong University               /t              Bachelor's degree in Information Engineering and Finance
+
+2020.06 - now    /t    Institute of Automation, Chinese Academy of Sciences      /t                Pattern Recognition and Intelligent System
 
 # Research Interests
 AI Medical Analysis(medical image)
+
 Deep Learning
+
 Machine Learning
 
 # Patent Achievement
